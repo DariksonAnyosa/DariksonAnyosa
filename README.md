@@ -1,5 +1,6 @@
-
-<img width="135" alt="Screenshot 2024-06-18 at 7 48 57 PM" src="https://github.com/DariksonAnyosa/DariksonAnyosa/assets/149196569/491c1717-efc5-48ac-bec3-5937b3e6147f"
+<div align = "center">
+![Screenshot 2024-06-18 at 7 48 57 PM](https://github.com/DariksonAnyosa/DariksonAnyosa/assets/149196569/50fcd939-3fa8-441a-b2ba-d162b1b220db)
+</div
 <div align = "center">
   <h1 align = "center">Hola soy Darikson 👋</h1>
 </div
